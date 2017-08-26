@@ -181,6 +181,7 @@ a:focus {
 
     .intro .intro-body .intro-text {
         font-size: 26px;
+        background-color: rgba(252, 248, 227, 0.71);
     }
 }
 
