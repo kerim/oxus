@@ -64,6 +64,11 @@ a:focus {
 .navbar-fixed-bottom p {
     font-size: 1.1em;
     background-color: rgba(252, 248, 227, 0.65);
+    color: black;
+}
+
+.navbar-fixed-bottom a {
+    color: green;
 }
 
 .navbar-custom {
